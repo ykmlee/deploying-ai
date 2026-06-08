@@ -146,12 +146,17 @@ Participants are encouraged to engage actively during the learning module. The k
 
 ### Requirements
 
-* Participants are not expected to have any coding experience; the learning content has been designed for beginners.
+* Learners are expected to have foundational data science skills prior to enrolling.
+* Participants should be comfortable with:
+    * Python programming (including functions, control structures, and common data structures)
+    * Working in a Unix or command-line environment
+    * Basic SQL queries
+    * Core concepts in data analysis and modeling
 * Participants are encouraged to ask questions, and collaborate with others to enhance their learning experience.
 * Participants must have a computer and an internet connection to participate in online activities.
 * Participants must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a support tool to help them find answers to questions they may have.
-* We expect participants to have completed the instructions mentioned in the [onboarding repo](https://github.com/UofT-DSI/onboarding/blob/main/environment_setup/README.md).
-* We encourage participants to default to having their camera on at all times, and turning the camera off only as needed. This will significantly enhance the learning experience for all participants and provide real-time feedback for the instructional team. 
+* We expect participants to have completed the instructions mentioned in the onboarding repo.
+* We encourage participants to default to having their camera on at all times, and turning the camera off only as needed. This will significantly enhance the learning experience for all participants and provide real-time feedback for the instructional team.
 
 
 ### Assessment
